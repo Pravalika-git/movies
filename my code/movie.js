@@ -1,7 +1,7 @@
 
 let container = document.getElementById("container");
 let loaders = document.getElementById("loaders");
-const url = 'http://localhost:3000/movies';
+const url = 'https://github.com/Pravalika-git/movies/blob/main/db.json';
 const options = {
     method: 'GET',
     headers: {
